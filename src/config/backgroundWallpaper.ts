@@ -55,7 +55,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
 		// playerUrl: "/assets/videos/firefly.mp4",
 		playerUrl: [
-			"/assets/videos/video.mp4",
+			"https://cropgif.net/videos/1783584432624-8e3d3c3a-e6ad-4419-b70d-f0504817fa57.mp4",
 		],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
