@@ -5,7 +5,7 @@ pinned: false
 description: 针对并查集数据结构的考察
 tags: [计算机,算法,Leetcode,图,并查集,二分查找]
 category: Leetcode每日一题
-draft: true
+draft: false
 ---
 题目来自Leetcode：[针对图的路径存在性查询Ⅰ](https://leetcode.cn/problems/path-existence-queries-in-a-graph-i/description/)
 
