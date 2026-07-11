@@ -2,7 +2,7 @@
 title: Leetcode每日一题01：针对图的路径存在性查询Ⅰ
 published: 2026-07-09
 pinned: false
-description: 针对并查集数据结构的考察
+description: 关键在于理解单调性质对于解决问题所提供的便利。
 tags: [计算机,算法,Leetcode,图,并查集,二分查找]
 category: Leetcode每日一题
 draft: false
